@@ -2,7 +2,6 @@
 
 void quicksort(int list[], int length);
 void mergesort(int list[], int length);
-int* merge(int list1[], int list2[], int length1, int length2);
 
 int main() {
     int list1[] = {8,6,7,5,3,0,9};
